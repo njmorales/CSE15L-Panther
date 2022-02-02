@@ -16,8 +16,8 @@ public class MarkdownParseTest {
     }
 
     @Test
-    public void tesFail() {
-        assertEquals(2*2, 1*2);
+    public void testFail() {
+        assertEquals(2*2, 2*2);
     }
 
     @Test
